@@ -1,0 +1,1670 @@
+{
+    "user": "kakao",
+    "repos": [
+        "adt"
+    ],
+    "file_tree": {
+        "master": {
+            "sha": "e5fef15fdacace10f871f9dfa817ca04743c751d",
+            "url": "https://api.github.com/repos/kakao/adt/git/trees/e5fef15fdacace10f871f9dfa817ca04743c751d",
+            "tree": [
+                {
+                    "path": ".gitignore",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "ad4cbefa3e99ba42cb323413409535622d99f253",
+                    "size": 1126,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/ad4cbefa3e99ba42cb323413409535622d99f253"
+                },
+                {
+                    "path": "CONTRIBUTING.md",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "fe35fac19a4c8b2370a3ac27f3181079a3405421",
+                    "size": 1025,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/fe35fac19a4c8b2370a3ac27f3181079a3405421"
+                },
+                {
+                    "path": "LICENSE.txt",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+                    "size": 11358,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/d645695673349e3947e8e5ae42332d0ac3164cd7"
+                },
+                {
+                    "path": "README.md",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "9e497ae9d70b78d7761a80c198477cee22fed07c",
+                    "size": 71,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/9e497ae9d70b78d7761a80c198477cee22fed07c"
+                },
+                {
+                    "path": "README_en.md",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "a8a26e27dd4f1da711ac9251fc3bab21136b03ed",
+                    "size": 9440,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/a8a26e27dd4f1da711ac9251fc3bab21136b03ed"
+                },
+                {
+                    "path": "README_ko.md",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "06ac3916f2e6cc0d234a2d82a1ac36eda56a1a3b",
+                    "size": 10557,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/06ac3916f2e6cc0d234a2d82a1ac36eda56a1a3b"
+                },
+                {
+                    "path": "adt-handler-parent",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "8ba548c40ccbb30d63f0831ad1c758d6ccdaee23",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/8ba548c40ccbb30d63f0831ad1c758d6ccdaee23"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "78c39d7ea16e0dad0bc66161931d699295fd0bcf",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/78c39d7ea16e0dad0bc66161931d699295fd0bcf"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer/pom.xml",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "273bd2075a485e2c1b23d731f9e5b84286a42985",
+                    "size": 540,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/273bd2075a485e2c1b23d731f9e5b84286a42985"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer/src",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "a10086019c16a7aafc7d9bd5073d470bf5c707f5",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/a10086019c16a7aafc7d9bd5073d470bf5c707f5"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer/src/main",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "976e3d4e5a4ebecb5cd89380ab6959f4c8b2996f",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/976e3d4e5a4ebecb5cd89380ab6959f4c8b2996f"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer/src/main/java",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "9a1065d71dc5e65b3cec49fe9aed91b4c99a9b9e",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/9a1065d71dc5e65b3cec49fe9aed91b4c99a9b9e"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer/src/main/java/com",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "7d7eb8d76c99eba605463283f9fff6a8fa790621",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/7d7eb8d76c99eba605463283f9fff6a8fa790621"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer/src/main/java/com/kakao",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "0fcd3c392fff79a033e29050ad9a28fa94d854a2",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/0fcd3c392fff79a033e29050ad9a28fa94d854a2"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer/src/main/java/com/kakao/adt",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "e9212c0fe93a7f2788ed2e3fc8d72c32ea19ca5d",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/e9212c0fe93a7f2788ed2e3fc8d72c32ea19ca5d"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer/src/main/java/com/kakao/adt/handler",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "e4d88b1602ce3b9f58cbb418a41fa3cdd52d3ea6",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/e4d88b1602ce3b9f58cbb418a41fa3cdd52d3ea6"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer/src/main/java/com/kakao/adt/handler/msr",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "b96a2627c10ce7cde74d54d45ab626e2c5de67f0",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/b96a2627c10ce7cde74d54d45ab626e2c5de67f0"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer/src/main/java/com/kakao/adt/handler/msr/AbstractMysqlHandler.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "97dbdf54a7bcb8f91a43e3785c2c6ef1145407dc",
+                    "size": 8814,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/97dbdf54a7bcb8f91a43e3785c2c6ef1145407dc"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer/src/main/java/com/kakao/adt/handler/msr/MSRBinlogHandler.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "0eabb4d49801ef3a50bf7dabf172713311ae5756",
+                    "size": 3814,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/0eabb4d49801ef3a50bf7dabf172713311ae5756"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer/src/main/java/com/kakao/adt/handler/msr/MSRMysqlDumpHandler.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "b258412ab13e3b5e7f4c77582e1a705011522c37",
+                    "size": 2791,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/b258412ab13e3b5e7f4c77582e1a705011522c37"
+                },
+                {
+                    "path": "adt-handler-parent/adt-handler-mysql-shard-rebalancer/src/main/java/com/kakao/adt/handler/msr/MSRTableCrawlHandler.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "ecdaebfc6b0026ac9e1367ff4de9fa3ad045dd02",
+                    "size": 1095,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/ecdaebfc6b0026ac9e1367ff4de9fa3ad045dd02"
+                },
+                {
+                    "path": "adt-handler-parent/pom.xml",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "a13d05fb10c0a5a36002e00cb0d488bf5e0f015e",
+                    "size": 2009,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/a13d05fb10c0a5a36002e00cb0d488bf5e0f015e"
+                },
+                {
+                    "path": "adt-test",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "7ae3a548a96183610719dd73b14703301c044717",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/7ae3a548a96183610719dd73b14703301c044717"
+                },
+                {
+                    "path": "adt-test/.gitignore",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "dc40ac6d9db03796912aeb9a1fa2068be6c4faa1",
+                    "size": 60,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/dc40ac6d9db03796912aeb9a1fa2068be6c4faa1"
+                },
+                {
+                    "path": "adt-test/msr_test_script",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "08fd5481b3010634f11bebdd150517db4cd5e61a",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/08fd5481b3010634f11bebdd150517db4cd5e61a"
+                },
+                {
+                    "path": "adt-test/msr_test_script/deploy_system_test.sh",
+                    "mode": "100755",
+                    "type": "blob",
+                    "sha": "d3b0bda4c3641b85e1942d7d39b98fb640952f59",
+                    "size": 1300,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/d3b0bda4c3641b85e1942d7d39b98fb640952f59"
+                },
+                {
+                    "path": "adt-test/msr_test_script/msr_binlog_test_config_template.json",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "762b94777955095acabdb34402eb14186fc3383f",
+                    "size": 522,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/762b94777955095acabdb34402eb14186fc3383f"
+                },
+                {
+                    "path": "adt-test/msr_test_script/reset_db_adt_test.sh",
+                    "mode": "100755",
+                    "type": "blob",
+                    "sha": "ade05277f1dda79c9df84de238f4ee0de0fbc92a",
+                    "size": 1034,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/ade05277f1dda79c9df84de238f4ee0de0fbc92a"
+                },
+                {
+                    "path": "adt-test/msr_test_script/server_list_template.sh",
+                    "mode": "100755",
+                    "type": "blob",
+                    "sha": "da9e654761dee2f33db8957bcf404b9de3547c1e",
+                    "size": 317,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/da9e654761dee2f33db8957bcf404b9de3547c1e"
+                },
+                {
+                    "path": "adt-test/msr_test_script/startup_adt_binlog_processor.sh",
+                    "mode": "100755",
+                    "type": "blob",
+                    "sha": "6f2f4084ca6d9f07906abfc40fb3900f2aa25e92",
+                    "size": 969,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/6f2f4084ca6d9f07906abfc40fb3900f2aa25e92"
+                },
+                {
+                    "path": "adt-test/msr_test_script/startup_data_integrity_checker.sh",
+                    "mode": "100755",
+                    "type": "blob",
+                    "sha": "8c0060b036c72a76b0a1f0febd7926d9ebbfea75",
+                    "size": 1731,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/8c0060b036c72a76b0a1f0febd7926d9ebbfea75"
+                },
+                {
+                    "path": "adt-test/msr_test_script/startup_dml_query_tool.sh",
+                    "mode": "100755",
+                    "type": "blob",
+                    "sha": "40ce28a46a75db2675234e321dd434df48be19d5",
+                    "size": 1809,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/40ce28a46a75db2675234e321dd434df48be19d5"
+                },
+                {
+                    "path": "adt-test/msr_test_script/startup_src_db_trouble_maker.sh",
+                    "mode": "100755",
+                    "type": "blob",
+                    "sha": "6e91d6ffb9bedcee8d870cedbacf704a6f783d38",
+                    "size": 169,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/6e91d6ffb9bedcee8d870cedbacf704a6f783d38"
+                },
+                {
+                    "path": "adt-test/pom.xml",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "d02bc0dcadb9f63beb5a41febd475e8c7995674d",
+                    "size": 1883,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/d02bc0dcadb9f63beb5a41febd475e8c7995674d"
+                },
+                {
+                    "path": "adt-test/src",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "36bde451d6204e8c858f04d58cf0691f5ef7d840",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/36bde451d6204e8c858f04d58cf0691f5ef7d840"
+                },
+                {
+                    "path": "adt-test/src/main",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "cd220a11c126c46c68e38366cc0f32f3e6a89c29",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/cd220a11c126c46c68e38366cc0f32f3e6a89c29"
+                },
+                {
+                    "path": "adt-test/src/main/java",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "6eae24e3ec20243c777c592d995f26d4835995f4",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/6eae24e3ec20243c777c592d995f26d4835995f4"
+                },
+                {
+                    "path": "adt-test/src/main/java/com",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "db45f8116c6d7a40d70c6135cbb3f0e55fbd146f",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/db45f8116c6d7a40d70c6135cbb3f0e55fbd146f"
+                },
+                {
+                    "path": "adt-test/src/main/java/com/kakao",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "14047a721d44f0f499dc37ee7823c7c550d25dc6",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/14047a721d44f0f499dc37ee7823c7c550d25dc6"
+                },
+                {
+                    "path": "adt-test/src/main/java/com/kakao/adt",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "27fc2c6c6df92f9a3550ffc1ad5c2111552ea1b1",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/27fc2c6c6df92f9a3550ffc1ad5c2111552ea1b1"
+                },
+                {
+                    "path": "adt-test/src/main/java/com/kakao/adt/test",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "6564dabda850a4814175c649dcbcd58fc845bb42",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/6564dabda850a4814175c649dcbcd58fc845bb42"
+                },
+                {
+                    "path": "adt-test/src/main/java/com/kakao/adt/test/tool",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "a1134cc0a325b12a10dba5276af5835e48e44510",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/a1134cc0a325b12a10dba5276af5835e48e44510"
+                },
+                {
+                    "path": "adt-test/src/main/java/com/kakao/adt/test/tool/DMLQueryTool.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "ed52314624ec97d280df067f23738ae88c9adb79",
+                    "size": 12814,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/ed52314624ec97d280df067f23738ae88c9adb79"
+                },
+                {
+                    "path": "adt-test/src/main/java/com/kakao/adt/test/tool/DMLQueryType.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "657de9dc35c9cf3cf9e063aa42c7fcd077fb0eef",
+                    "size": 1137,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/657de9dc35c9cf3cf9e063aa42c7fcd077fb0eef"
+                },
+                {
+                    "path": "adt-test/src/main/java/com/kakao/adt/test/tool/DataIntegrityTestTool.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "18adc1eb1b3f7689168ecd16de6f3a9eada21af4",
+                    "size": 7227,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/18adc1eb1b3f7689168ecd16de6f3a9eada21af4"
+                },
+                {
+                    "path": "adt-test/src/main/resources",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "5452cd3bb5aa4f5dd531da1651c334d66a932d13",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/5452cd3bb5aa4f5dd531da1651c334d66a932d13"
+                },
+                {
+                    "path": "adt-test/src/main/resources/dml_query_tool_config.properties",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "e4649abdcbb509c4a3ceadef705f3a448ffdb350",
+                    "size": 1476,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/e4649abdcbb509c4a3ceadef705f3a448ffdb350"
+                },
+                {
+                    "path": "adt-test/src/main/resources/logback.xml",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "3702a7488abd60936a4b7b35c88d5979b4441683",
+                    "size": 1011,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/3702a7488abd60936a4b7b35c88d5979b4441683"
+                },
+                {
+                    "path": "adt-test/src/test",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "d08676b498d5b1226055a74c4d26ed089eb25948",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/d08676b498d5b1226055a74c4d26ed089eb25948"
+                },
+                {
+                    "path": "adt-test/src/test/java",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "0a96d535cc285f0d942d9d3d32e19b49532f4523",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/0a96d535cc285f0d942d9d3d32e19b49532f4523"
+                },
+                {
+                    "path": "adt-test/src/test/java/com",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "88682ba5489b844852df7d80bcda7bf599a3b70f",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/88682ba5489b844852df7d80bcda7bf599a3b70f"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "186a2b121555702b15c17ed13b09e90c94095f0b",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/186a2b121555702b15c17ed13b09e90c94095f0b"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "5c8f1afbb08cdc684ba7e1c5c8116890dd87cc0c",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/5c8f1afbb08cdc684ba7e1c5c8116890dd87cc0c"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "819d25430c3ce23678eadccc5822aa74b4a88464",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/819d25430c3ce23678eadccc5822aa74b4a88464"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/TestUtil.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "a3741f90fba024456714f80b70ad12e9d421126c",
+                    "size": 6370,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/a3741f90fba024456714f80b70ad12e9d421126c"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/handler",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "ba0f2ea353270cf03a0706ae939ae0811305f9ce",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/ba0f2ea353270cf03a0706ae939ae0811305f9ce"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/handler/msr",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "b5255bbbfebf419f102b13240171f7941e566253",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/b5255bbbfebf419f102b13240171f7941e566253"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/handler/msr/HandlerTest.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "5acdc69c1c5b19e5c3e4614a62add9062a1054a8",
+                    "size": 8841,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/5acdc69c1c5b19e5c3e4614a62add9062a1054a8"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/handler/msr/ScriptEngineTest.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "f4aba06be3a17d51f9136e274df3d1e5d98546fc",
+                    "size": 3121,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/f4aba06be3a17d51f9136e274df3d1e5d98546fc"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/worker",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "4b8575ecb48e564042b8ac4c65fbf1751700a57b",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/4b8575ecb48e564042b8ac4c65fbf1751700a57b"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/worker/ParallelExecutorTest.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "a36ebcde57594f644713a2480148bd3f047c14cc",
+                    "size": 4834,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/a36ebcde57594f644713a2480148bd3f047c14cc"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/worker/TestMysqlBinlogProcessorHandler.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "c723174b38cd0bd3f980f0025b1adb85101a1d2e",
+                    "size": 660,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/c723174b38cd0bd3f980f0025b1adb85101a1d2e"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/worker/TestMysqlCrawlProcessorHandler.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "6bf3fbdf856536194bc1bd824df553f9c4a96254",
+                    "size": 664,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/6bf3fbdf856536194bc1bd824df553f9c4a96254"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/worker/mysql",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "512abe07e90c3e311b7f82631bc3551a93848c94",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/512abe07e90c3e311b7f82631bc3551a93848c94"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/worker/mysql/MysqlServerInfoTest.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "4c4035648e081d983c44ca33ca81a5cd52e87a36",
+                    "size": 3782,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/4c4035648e081d983c44ca33ca81a5cd52e87a36"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/worker/mysql/binlog",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "a078ca0977472827251cd7f5135b4f2200972cee",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/a078ca0977472827251cd7f5135b4f2200972cee"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/worker/mysql/binlog/MysqlBinlogHandlerTest.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "55b3ee8252c59a7373ebdde617a73dbc6460d85f",
+                    "size": 4358,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/55b3ee8252c59a7373ebdde617a73dbc6460d85f"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/worker/mysql/binlog/MysqlBinlogProcessorDBCopyTest.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "f3b4a5eeeb2c9cafe08e9e28638902ecd180bf49",
+                    "size": 13764,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/f3b4a5eeeb2c9cafe08e9e28638902ecd180bf49"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/worker/mysql/binlog/MysqlBinlogProcessorTest.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "79a90fc3ab2f641cc4fe37dff44ddd4e2460b2a6",
+                    "size": 4995,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/79a90fc3ab2f641cc4fe37dff44ddd4e2460b2a6"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/worker/mysql/binlog/MysqlBinlogReceiverTest.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "2273a069132b16729ced9947adebef8e1e82e211",
+                    "size": 3237,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/2273a069132b16729ced9947adebef8e1e82e211"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/worker/mysql/crawler",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "447d2466e8120397528bc6ae56fb1de05e766f0d",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/447d2466e8120397528bc6ae56fb1de05e766f0d"
+                },
+                {
+                    "path": "adt-test/src/test/java/com/kakao/adt/test/worker/mysql/crawler/MysqlCrawlerTest.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "c0a74222bc6c26410a4a869110bd25557d73b151",
+                    "size": 8835,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/c0a74222bc6c26410a4a869110bd25557d73b151"
+                },
+                {
+                    "path": "adt-test/src/test/resources",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "10010e2329ae41b2b9ced1299c20a0d7224310e5",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/10010e2329ae41b2b9ced1299c20a0d7224310e5"
+                },
+                {
+                    "path": "adt-test/src/test/resources/logback-test.xml",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "49a5003184e045a66636f0edea761fd5d85436a7",
+                    "size": 414,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/49a5003184e045a66636f0edea761fd5d85436a7"
+                },
+                {
+                    "path": "adt-test/src/test/resources/mysqlShardRebalancerTest",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "618df18243a641198a13d9df4b0c6f4ea8c68f73",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/618df18243a641198a13d9df4b0c6f4ea8c68f73"
+                },
+                {
+                    "path": "adt-test/src/test/resources/mysqlShardRebalancerTest/test_handler_script.js",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "ccfbef429b57f5794176b3440550abb23ba80c59",
+                    "size": 258,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/ccfbef429b57f5794176b3440550abb23ba80c59"
+                },
+                {
+                    "path": "adt-test/src/test/resources/mysqlShardRebalancerTest/test_script.js",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "87f3d3b862b0d6b83609360bab0b830be92ab7b5",
+                    "size": 374,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/87f3d3b862b0d6b83609360bab0b830be92ab7b5"
+                },
+                {
+                    "path": "adt-test/src/test/resources/sql",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "d23314431dd1f90fe793f03645b247bb06b7dd5f",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/d23314431dd1f90fe793f03645b247bb06b7dd5f"
+                },
+                {
+                    "path": "adt-test/src/test/resources/sql/create_table_adt_test_1.sql",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "32868775dc45a01c683c4bec5b06610877a89483",
+                    "size": 440,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/32868775dc45a01c683c4bec5b06610877a89483"
+                },
+                {
+                    "path": "adt-test/src/test/resources/sql/create_table_adt_test_2.sql",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "e4183ea0179f6011bd3f2077812b0bb1fa17c505",
+                    "size": 428,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/e4183ea0179f6011bd3f2077812b0bb1fa17c505"
+                },
+                {
+                    "path": "adt-test/src/test/resources/sql/create_table_adt_test_3.sql",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "f8995f81aa03f37520d23a0443c3e03845128def",
+                    "size": 139,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/f8995f81aa03f37520d23a0443c3e03845128def"
+                },
+                {
+                    "path": "adt-worker",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "f6e5929b617d1cfcce5a2a3e0fa85b8fad35747d",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/f6e5929b617d1cfcce5a2a3e0fa85b8fad35747d"
+                },
+                {
+                    "path": "adt-worker/memo.md",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "cdb42f3c623fe83e32ca6122be59e8a42f8c2f27",
+                    "size": 2580,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/cdb42f3c623fe83e32ca6122be59e8a42f8c2f27"
+                },
+                {
+                    "path": "adt-worker/pom.xml",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "a386ebf1b7ea91d0181dca5854e1876167bf5a40",
+                    "size": 4310,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/a386ebf1b7ea91d0181dca5854e1876167bf5a40"
+                },
+                {
+                    "path": "adt-worker/src",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "f441a47c9de839df53ef48705be6337eaf773aa8",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/f441a47c9de839df53ef48705be6337eaf773aa8"
+                },
+                {
+                    "path": "adt-worker/src/main",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "9f7dd3f54b7756360d7551d38251522258c8f0e4",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/9f7dd3f54b7756360d7551d38251522258c8f0e4"
+                },
+                {
+                    "path": "adt-worker/src/main/java",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "7b34f72a3afbf44bef36fd0452a78030923a4632",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/7b34f72a3afbf44bef36fd0452a78030923a4632"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "2b410ee61a727c1adf71f4ea13f300b4395624f7",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/2b410ee61a727c1adf71f4ea13f300b4395624f7"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "a70a90459d78607f4990cafdcc469b708d565dc6",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/a70a90459d78607f4990cafdcc469b708d565dc6"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "764fd376b01c63ef44b0c57fdfb8721e94442252",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/764fd376b01c63ef44b0c57fdfb8721e94442252"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/IProcessor.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "657fa7c4f27de446a4c75104ae8d18674ed1d9cd",
+                    "size": 288,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/657fa7c4f27de446a4c75104ae8d18674ed1d9cd"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/WorkerMain.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "4d1529c67b967661c80d8156b3e8276c7fc8b765",
+                    "size": 5494,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/4d1529c67b967661c80d8156b3e8276c7fc8b765"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/handler",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "00b513b2f9f77f1195d39f3a17fa64db4ef1f67b",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/00b513b2f9f77f1195d39f3a17fa64db4ef1f67b"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/handler/MysqlBinlogProcessorHandler.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "54d9ac94f04fd0f47179ac1770364ae4500b95d5",
+                    "size": 176,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/54d9ac94f04fd0f47179ac1770364ae4500b95d5"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/handler/MysqlCrawlProcessorHandler.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "3ca6467d21ac5074a81eeb8da32ea295b3ed20b6",
+                    "size": 174,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/3ca6467d21ac5074a81eeb8da32ea295b3ed20b6"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/handler/ProcessorHandler.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "a6933fe12a71688f9adedc2a3ca855ae421c930f",
+                    "size": 276,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/a6933fe12a71688f9adedc2a3ca855ae421c930f"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/misc",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "9d1ec0bd66e75c8f792a6f61d754e0ef088f5b08",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/9d1ec0bd66e75c8f792a6f61d754e0ef088f5b08"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/misc/BooleanWrapper.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "4426e65ff7fd88c1d6680f8cafd52056fed57327",
+                    "size": 575,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/4426e65ff7fd88c1d6680f8cafd52056fed57327"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/misc/LongWrapper.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "7542e3a2ee7b92365d8a4daca2a95a4e965ba4a7",
+                    "size": 339,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/7542e3a2ee7b92365d8a4daca2a95a4e965ba4a7"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/misc/Tuple2.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "72d1b0e30099bd3fa8e1fc004609cab893b66b98",
+                    "size": 1245,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/72d1b0e30099bd3fa8e1fc004609cab893b66b98"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "2c4e184736a7a26b9caa697f0b8504376300bb1f",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/2c4e184736a7a26b9caa697f0b8504376300bb1f"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/binlog",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "3ee0226b92e25ad8949ba434e26d7ed82ce6f54d",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/3ee0226b92e25ad8949ba434e26d7ed82ce6f54d"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/binlog/MysqlBinlogData.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "ce5106eb3d418707e2ebe1fc5a8157e30e270599",
+                    "size": 1375,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/ce5106eb3d418707e2ebe1fc5a8157e30e270599"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/binlog/MysqlBinlogHandler.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "54535c5a717e8a2105e3cac039ac161f3b6be3e2",
+                    "size": 14837,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/54535c5a717e8a2105e3cac039ac161f3b6be3e2"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/binlog/MysqlBinlogProcessor.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "cdd85e5e9ad12c10b7651bef730970031e526453",
+                    "size": 14349,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/cdd85e5e9ad12c10b7651bef730970031e526453"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/binlog/MysqlBinlogProcessorConfig.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "7c7ecd054ef98f6768984db07a80773e41f5c97a",
+                    "size": 1996,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/7c7ecd054ef98f6768984db07a80773e41f5c97a"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/binlog/MysqlBinlogTask.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "b543ef1f1e002d50d165d7ad76b8b9464c6b25b3",
+                    "size": 8446,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/b543ef1f1e002d50d165d7ad76b8b9464c6b25b3"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/binlog/MysqlBinlogTaskQueue.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "e5668c9fc5c42304696f3ffd799bbcbd34d6c41b",
+                    "size": 3038,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/e5668c9fc5c42304696f3ffd799bbcbd34d6c41b"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/binlog/receiver",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "379a7a5781826fae97f7a3d9c0ebaa8fc6923f0f",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/379a7a5781826fae97f7a3d9c0ebaa8fc6923f0f"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/binlog/receiver/MysqlBinlogReceiver.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "8dfeb545a3fcb692b871acd5512ef249700e0ee3",
+                    "size": 3467,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/8dfeb545a3fcb692b871acd5512ef249700e0ee3"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/binlog/receiver/MysqlBinlogReceiverEventListener.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "907d46d5e72a159b5c25a910204da4898e812fa2",
+                    "size": 578,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/907d46d5e72a159b5c25a910204da4898e812fa2"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/crawler",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "dfe71e58062f1a90708bdd6db54fb7e13a359e06",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/dfe71e58062f1a90708bdd6db54fb7e13a359e06"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/crawler/MysqlCrawlData.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "7de3582fc946c2aead12f51292db80147eb4df6e",
+                    "size": 702,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/7de3582fc946c2aead12f51292db80147eb4df6e"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/crawler/MysqlCrawlProcessor.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "8c8c8100d23649bf2da071ad9e6c0ff24b68e2b5",
+                    "size": 6371,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/8c8c8100d23649bf2da071ad9e6c0ff24b68e2b5"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/crawler/MysqlCrawlProcessorConfig.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "eb3d0f09f22b40383fb7efe1dc2849867627e684",
+                    "size": 1428,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/eb3d0f09f22b40383fb7efe1dc2849867627e684"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/crawler/MysqlSelectLockMode.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "d319e94813c4c9bc7562e2b9fbffd544890771a5",
+                    "size": 341,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/d319e94813c4c9bc7562e2b9fbffd544890771a5"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/crawler/MysqlTableCrawlTask.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "160a5bc65dc70d2bc3d8b8b03389316635ff4e09",
+                    "size": 7913,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/160a5bc65dc70d2bc3d8b8b03389316635ff4e09"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/metadata",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "2024ff1956b13da8a010208636ee79f519c42ca6",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/2024ff1956b13da8a010208636ee79f519c42ca6"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/metadata/BinaryLogFile.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "5a2941ee0b262143bc4588fd33add142925f9143",
+                    "size": 421,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/5a2941ee0b262143bc4588fd33add142925f9143"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/metadata/Column.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "8a3876b4dc60b29a21f7dc9235fdb03fb5bb7513",
+                    "size": 877,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/8a3876b4dc60b29a21f7dc9235fdb03fb5bb7513"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/metadata/Database.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "12d3e951c9f60ecfd041ea182998a064131c44f4",
+                    "size": 599,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/12d3e951c9f60ecfd041ea182998a064131c44f4"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/metadata/Index.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "092aebdc6fc6896ac4e2b8516279259641c090d5",
+                    "size": 934,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/092aebdc6fc6896ac4e2b8516279259641c090d5"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/metadata/MysqlServerInfo.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "b9229112447eb297596ce29937a856ae0efd3913",
+                    "size": 6696,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/b9229112447eb297596ce29937a856ae0efd3913"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/mysql/metadata/Table.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "e96fa426e6bb7fe0d546ae225e808ff627706294",
+                    "size": 1310,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/e96fa426e6bb7fe0d546ae225e808ff627706294"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/parallel",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "a6f6ee652339b90e25057841eccaa529df41913c",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/a6f6ee652339b90e25057841eccaa529df41913c"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/parallel/AbstractIOIExecutor.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "298960495f39150d52c278bd37091c766ce20d60",
+                    "size": 5912,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/298960495f39150d52c278bd37091c766ce20d60"
+                },
+                {
+                    "path": "adt-worker/src/main/java/com/kakao/adt/parallel/IParallelExecutor.java",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "3c4337a57055551bcdd69eb3eecc67d965a54468",
+                    "size": 236,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/3c4337a57055551bcdd69eb3eecc67d965a54468"
+                },
+                {
+                    "path": "adt-worker/src/main/resources",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "abe1f3bdd791aab1e2b238a426c534914d523cd2",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/abe1f3bdd791aab1e2b238a426c534914d523cd2"
+                },
+                {
+                    "path": "adt-worker/src/main/resources/logback.xml",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "7f3b9510fcc82b88d0abbd12f939ef86dbb7396a",
+                    "size": 1103,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/7f3b9510fcc82b88d0abbd12f939ef86dbb7396a"
+                },
+                {
+                    "path": "image",
+                    "mode": "040000",
+                    "type": "tree",
+                    "sha": "cbd9df51225852f37adb61a6030c772ef4965068",
+                    "url": "https://api.github.com/repos/kakao/adt/git/trees/cbd9df51225852f37adb61a6030c772ef4965068"
+                },
+                {
+                    "path": "image/mysql_binlog_proc.png",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "29e7d3316fe943284bef66507f83668f29d218c7",
+                    "size": 44369,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/29e7d3316fe943284bef66507f83668f29d218c7"
+                },
+                {
+                    "path": "image/mysql_crawler.png",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "29317bc5b101c3cd3150302f1333b0fe2ce24144",
+                    "size": 34018,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/29317bc5b101c3cd3150302f1333b0fe2ce24144"
+                },
+                {
+                    "path": "image/shard_split_handler.png",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "17339c60b40fdaca32137ac3307cb55c7a6b7876",
+                    "size": 98661,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/17339c60b40fdaca32137ac3307cb55c7a6b7876"
+                },
+                {
+                    "path": "pom.xml",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "c5fd659fa53127305894542e40940cd8595bfc92",
+                    "size": 3273,
+                    "url": "https://api.github.com/repos/kakao/adt/git/blobs/c5fd659fa53127305894542e40940cd8595bfc92"
+                }
+            ],
+            "truncated": false
+        }
+    },
+    "metadata": {
+        "stars": 58,
+        "description": "Almighty Data Transmitter",
+        "open_issues": 0,
+        "collaborators": [
+            "iolo",
+            "suho-hahn",
+            "sungiklee"
+        ],
+        "commits": [
+            {
+                "sha": "e5fef15fdacace10f871f9dfa817ca04743c751d",
+                "node_id": "MDY6Q29tbWl0NjA2Njk4MTg6ZTVmZWYxNWZkYWNhY2UxMGY4NzFmOWRmYTgxN2NhMDQ3NDNjNzUxZA==",
+                "commit": {
+                    "author": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-27T07:25:55Z"
+                    },
+                    "committer": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-27T07:25:55Z"
+                    },
+                    "message": "update readme",
+                    "tree": {
+                        "sha": "0986629f9c1e8076d312b4e6b96edef5e87f76e3",
+                        "url": "https://api.github.com/repos/kakao/adt/git/trees/0986629f9c1e8076d312b4e6b96edef5e87f76e3"
+                    },
+                    "url": "https://api.github.com/repos/kakao/adt/git/commits/e5fef15fdacace10f871f9dfa817ca04743c751d",
+                    "comment_count": 0,
+                    "verification": {
+                        "verified": false,
+                        "reason": "unsigned",
+                        "signature": null,
+                        "payload": null,
+                        "verified_at": null
+                    }
+                },
+                "url": "https://api.github.com/repos/kakao/adt/commits/e5fef15fdacace10f871f9dfa817ca04743c751d",
+                "html_url": "https://github.com/kakao/adt/commit/e5fef15fdacace10f871f9dfa817ca04743c751d",
+                "comments_url": "https://api.github.com/repos/kakao/adt/commits/e5fef15fdacace10f871f9dfa817ca04743c751d/comments",
+                "author": null,
+                "committer": null,
+                "parents": [
+                    {
+                        "sha": "0077b7dba5045c5692ed9e64ea6d5d801b919c03",
+                        "url": "https://api.github.com/repos/kakao/adt/commits/0077b7dba5045c5692ed9e64ea6d5d801b919c03",
+                        "html_url": "https://github.com/kakao/adt/commit/0077b7dba5045c5692ed9e64ea6d5d801b919c03"
+                    }
+                ]
+            },
+            {
+                "sha": "0077b7dba5045c5692ed9e64ea6d5d801b919c03",
+                "node_id": "MDY6Q29tbWl0NjA2Njk4MTg6MDA3N2I3ZGJhNTA0NWM1NjkyZWQ5ZTY0ZWE2ZDVkODAxYjkxOWMwMw==",
+                "commit": {
+                    "author": {
+                        "name": "Suho Hahn",
+                        "email": "suho.hahn@gmail.com",
+                        "date": "2016-06-27T07:11:22Z"
+                    },
+                    "committer": {
+                        "name": "GitHub",
+                        "email": "noreply@github.com",
+                        "date": "2016-06-27T07:11:22Z"
+                    },
+                    "message": "Merge pull request #1 from Sungik/master\n\nadd .gitignore tempate for JetBrains IDE things like .idea and so on",
+                    "tree": {
+                        "sha": "b22992a45cd8f2a2892d6ad6e9328263974a9b9b",
+                        "url": "https://api.github.com/repos/kakao/adt/git/trees/b22992a45cd8f2a2892d6ad6e9328263974a9b9b"
+                    },
+                    "url": "https://api.github.com/repos/kakao/adt/git/commits/0077b7dba5045c5692ed9e64ea6d5d801b919c03",
+                    "comment_count": 0,
+                    "verification": {
+                        "verified": false,
+                        "reason": "unsigned",
+                        "signature": null,
+                        "payload": null,
+                        "verified_at": null
+                    }
+                },
+                "url": "https://api.github.com/repos/kakao/adt/commits/0077b7dba5045c5692ed9e64ea6d5d801b919c03",
+                "html_url": "https://github.com/kakao/adt/commit/0077b7dba5045c5692ed9e64ea6d5d801b919c03",
+                "comments_url": "https://api.github.com/repos/kakao/adt/commits/0077b7dba5045c5692ed9e64ea6d5d801b919c03/comments",
+                "author": {
+                    "login": "suho-hahn",
+                    "id": 19299435,
+                    "node_id": "MDQ6VXNlcjE5Mjk5NDM1",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/19299435?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/suho-hahn",
+                    "html_url": "https://github.com/suho-hahn",
+                    "followers_url": "https://api.github.com/users/suho-hahn/followers",
+                    "following_url": "https://api.github.com/users/suho-hahn/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/suho-hahn/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/suho-hahn/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/suho-hahn/subscriptions",
+                    "organizations_url": "https://api.github.com/users/suho-hahn/orgs",
+                    "repos_url": "https://api.github.com/users/suho-hahn/repos",
+                    "events_url": "https://api.github.com/users/suho-hahn/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/suho-hahn/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "committer": {
+                    "login": "web-flow",
+                    "id": 19864447,
+                    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/web-flow",
+                    "html_url": "https://github.com/web-flow",
+                    "followers_url": "https://api.github.com/users/web-flow/followers",
+                    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+                    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+                    "repos_url": "https://api.github.com/users/web-flow/repos",
+                    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "parents": [
+                    {
+                        "sha": "dee649c21aee38aa92ead1fcd0f667fea2dbfdb2",
+                        "url": "https://api.github.com/repos/kakao/adt/commits/dee649c21aee38aa92ead1fcd0f667fea2dbfdb2",
+                        "html_url": "https://github.com/kakao/adt/commit/dee649c21aee38aa92ead1fcd0f667fea2dbfdb2"
+                    },
+                    {
+                        "sha": "4c3e1471d8a8a283c1029e283c742b4921db4cf3",
+                        "url": "https://api.github.com/repos/kakao/adt/commits/4c3e1471d8a8a283c1029e283c742b4921db4cf3",
+                        "html_url": "https://github.com/kakao/adt/commit/4c3e1471d8a8a283c1029e283c742b4921db4cf3"
+                    }
+                ]
+            },
+            {
+                "sha": "4c3e1471d8a8a283c1029e283c742b4921db4cf3",
+                "node_id": "MDY6Q29tbWl0NjA2Njk4MTg6NGMzZTE0NzFkOGE4YTI4M2MxMDI5ZTI4M2M3NDJiNDkyMWRiNGNmMw==",
+                "commit": {
+                    "author": {
+                        "name": "Sungik Lee",
+                        "email": "sungiklee@me.com",
+                        "date": "2016-06-27T05:58:18Z"
+                    },
+                    "committer": {
+                        "name": "Sungik Lee",
+                        "email": "sungiklee@me.com",
+                        "date": "2016-06-27T05:58:18Z"
+                    },
+                    "message": "add .gitignore tempate for JetBrains IDE things like .idea and so on",
+                    "tree": {
+                        "sha": "b22992a45cd8f2a2892d6ad6e9328263974a9b9b",
+                        "url": "https://api.github.com/repos/kakao/adt/git/trees/b22992a45cd8f2a2892d6ad6e9328263974a9b9b"
+                    },
+                    "url": "https://api.github.com/repos/kakao/adt/git/commits/4c3e1471d8a8a283c1029e283c742b4921db4cf3",
+                    "comment_count": 0,
+                    "verification": {
+                        "verified": false,
+                        "reason": "unsigned",
+                        "signature": null,
+                        "payload": null,
+                        "verified_at": null
+                    }
+                },
+                "url": "https://api.github.com/repos/kakao/adt/commits/4c3e1471d8a8a283c1029e283c742b4921db4cf3",
+                "html_url": "https://github.com/kakao/adt/commit/4c3e1471d8a8a283c1029e283c742b4921db4cf3",
+                "comments_url": "https://api.github.com/repos/kakao/adt/commits/4c3e1471d8a8a283c1029e283c742b4921db4cf3/comments",
+                "author": {
+                    "login": "sungiklee",
+                    "id": 10645817,
+                    "node_id": "MDQ6VXNlcjEwNjQ1ODE3",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/10645817?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/sungiklee",
+                    "html_url": "https://github.com/sungiklee",
+                    "followers_url": "https://api.github.com/users/sungiklee/followers",
+                    "following_url": "https://api.github.com/users/sungiklee/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/sungiklee/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/sungiklee/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/sungiklee/subscriptions",
+                    "organizations_url": "https://api.github.com/users/sungiklee/orgs",
+                    "repos_url": "https://api.github.com/users/sungiklee/repos",
+                    "events_url": "https://api.github.com/users/sungiklee/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/sungiklee/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "committer": {
+                    "login": "sungiklee",
+                    "id": 10645817,
+                    "node_id": "MDQ6VXNlcjEwNjQ1ODE3",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/10645817?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/sungiklee",
+                    "html_url": "https://github.com/sungiklee",
+                    "followers_url": "https://api.github.com/users/sungiklee/followers",
+                    "following_url": "https://api.github.com/users/sungiklee/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/sungiklee/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/sungiklee/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/sungiklee/subscriptions",
+                    "organizations_url": "https://api.github.com/users/sungiklee/orgs",
+                    "repos_url": "https://api.github.com/users/sungiklee/repos",
+                    "events_url": "https://api.github.com/users/sungiklee/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/sungiklee/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "parents": [
+                    {
+                        "sha": "dee649c21aee38aa92ead1fcd0f667fea2dbfdb2",
+                        "url": "https://api.github.com/repos/kakao/adt/commits/dee649c21aee38aa92ead1fcd0f667fea2dbfdb2",
+                        "html_url": "https://github.com/kakao/adt/commit/dee649c21aee38aa92ead1fcd0f667fea2dbfdb2"
+                    }
+                ]
+            },
+            {
+                "sha": "dee649c21aee38aa92ead1fcd0f667fea2dbfdb2",
+                "node_id": "MDY6Q29tbWl0NjA2Njk4MTg6ZGVlNjQ5YzIxYWVlMzhhYTkyZWFkMWZjZDBmNjY3ZmVhMmRiZmRiMg==",
+                "commit": {
+                    "author": {
+                        "name": "Dongsu Jang",
+                        "email": "iolothebard@gmail.com",
+                        "date": "2016-06-27T04:46:53Z"
+                    },
+                    "committer": {
+                        "name": "GitHub",
+                        "email": "noreply@github.com",
+                        "date": "2016-06-27T04:46:53Z"
+                    },
+                    "message": "add contributing.md with CLA.",
+                    "tree": {
+                        "sha": "b2dabf94a2d1683b8c326c30d054acb4ff202943",
+                        "url": "https://api.github.com/repos/kakao/adt/git/trees/b2dabf94a2d1683b8c326c30d054acb4ff202943"
+                    },
+                    "url": "https://api.github.com/repos/kakao/adt/git/commits/dee649c21aee38aa92ead1fcd0f667fea2dbfdb2",
+                    "comment_count": 0,
+                    "verification": {
+                        "verified": false,
+                        "reason": "unsigned",
+                        "signature": null,
+                        "payload": null,
+                        "verified_at": null
+                    }
+                },
+                "url": "https://api.github.com/repos/kakao/adt/commits/dee649c21aee38aa92ead1fcd0f667fea2dbfdb2",
+                "html_url": "https://github.com/kakao/adt/commit/dee649c21aee38aa92ead1fcd0f667fea2dbfdb2",
+                "comments_url": "https://api.github.com/repos/kakao/adt/commits/dee649c21aee38aa92ead1fcd0f667fea2dbfdb2/comments",
+                "author": {
+                    "login": "iolo",
+                    "id": 77693,
+                    "node_id": "MDQ6VXNlcjc3Njkz",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/77693?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/iolo",
+                    "html_url": "https://github.com/iolo",
+                    "followers_url": "https://api.github.com/users/iolo/followers",
+                    "following_url": "https://api.github.com/users/iolo/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/iolo/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/iolo/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/iolo/subscriptions",
+                    "organizations_url": "https://api.github.com/users/iolo/orgs",
+                    "repos_url": "https://api.github.com/users/iolo/repos",
+                    "events_url": "https://api.github.com/users/iolo/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/iolo/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "committer": {
+                    "login": "web-flow",
+                    "id": 19864447,
+                    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/web-flow",
+                    "html_url": "https://github.com/web-flow",
+                    "followers_url": "https://api.github.com/users/web-flow/followers",
+                    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+                    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+                    "repos_url": "https://api.github.com/users/web-flow/repos",
+                    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "parents": [
+                    {
+                        "sha": "d609ecd54c6439e20033bbd54911725554b10fba",
+                        "url": "https://api.github.com/repos/kakao/adt/commits/d609ecd54c6439e20033bbd54911725554b10fba",
+                        "html_url": "https://github.com/kakao/adt/commit/d609ecd54c6439e20033bbd54911725554b10fba"
+                    }
+                ]
+            },
+            {
+                "sha": "d609ecd54c6439e20033bbd54911725554b10fba",
+                "node_id": "MDY6Q29tbWl0NjA2Njk4MTg6ZDYwOWVjZDU0YzY0MzllMjAwMzNiYmQ1NDkxMTcyNTU1NGIxMGZiYQ==",
+                "commit": {
+                    "author": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-15T08:50:20Z"
+                    },
+                    "committer": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-15T08:50:20Z"
+                    },
+                    "message": "update readme",
+                    "tree": {
+                        "sha": "62e66a73442e5d51ee56c5539dcd22f7545c5613",
+                        "url": "https://api.github.com/repos/kakao/adt/git/trees/62e66a73442e5d51ee56c5539dcd22f7545c5613"
+                    },
+                    "url": "https://api.github.com/repos/kakao/adt/git/commits/d609ecd54c6439e20033bbd54911725554b10fba",
+                    "comment_count": 0,
+                    "verification": {
+                        "verified": false,
+                        "reason": "unsigned",
+                        "signature": null,
+                        "payload": null,
+                        "verified_at": null
+                    }
+                },
+                "url": "https://api.github.com/repos/kakao/adt/commits/d609ecd54c6439e20033bbd54911725554b10fba",
+                "html_url": "https://github.com/kakao/adt/commit/d609ecd54c6439e20033bbd54911725554b10fba",
+                "comments_url": "https://api.github.com/repos/kakao/adt/commits/d609ecd54c6439e20033bbd54911725554b10fba/comments",
+                "author": null,
+                "committer": null,
+                "parents": [
+                    {
+                        "sha": "7b18b3ba2ddd16fb4a2ec34259caa8fb0cc39703",
+                        "url": "https://api.github.com/repos/kakao/adt/commits/7b18b3ba2ddd16fb4a2ec34259caa8fb0cc39703",
+                        "html_url": "https://github.com/kakao/adt/commit/7b18b3ba2ddd16fb4a2ec34259caa8fb0cc39703"
+                    }
+                ]
+            },
+            {
+                "sha": "7b18b3ba2ddd16fb4a2ec34259caa8fb0cc39703",
+                "node_id": "MDY6Q29tbWl0NjA2Njk4MTg6N2IxOGIzYmEyZGRkMTZmYjRhMmVjMzQyNTljYWE4ZmIwY2MzOTcwMw==",
+                "commit": {
+                    "author": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-15T08:48:41Z"
+                    },
+                    "committer": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-15T08:48:41Z"
+                    },
+                    "message": "update readme",
+                    "tree": {
+                        "sha": "b891737ac9e9022a7a6bfa7f613bccc6d8ceec28",
+                        "url": "https://api.github.com/repos/kakao/adt/git/trees/b891737ac9e9022a7a6bfa7f613bccc6d8ceec28"
+                    },
+                    "url": "https://api.github.com/repos/kakao/adt/git/commits/7b18b3ba2ddd16fb4a2ec34259caa8fb0cc39703",
+                    "comment_count": 0,
+                    "verification": {
+                        "verified": false,
+                        "reason": "unsigned",
+                        "signature": null,
+                        "payload": null,
+                        "verified_at": null
+                    }
+                },
+                "url": "https://api.github.com/repos/kakao/adt/commits/7b18b3ba2ddd16fb4a2ec34259caa8fb0cc39703",
+                "html_url": "https://github.com/kakao/adt/commit/7b18b3ba2ddd16fb4a2ec34259caa8fb0cc39703",
+                "comments_url": "https://api.github.com/repos/kakao/adt/commits/7b18b3ba2ddd16fb4a2ec34259caa8fb0cc39703/comments",
+                "author": null,
+                "committer": null,
+                "parents": [
+                    {
+                        "sha": "8bcab98586266853044e4abedd7f8f30d456f67e",
+                        "url": "https://api.github.com/repos/kakao/adt/commits/8bcab98586266853044e4abedd7f8f30d456f67e",
+                        "html_url": "https://github.com/kakao/adt/commit/8bcab98586266853044e4abedd7f8f30d456f67e"
+                    }
+                ]
+            },
+            {
+                "sha": "8bcab98586266853044e4abedd7f8f30d456f67e",
+                "node_id": "MDY6Q29tbWl0NjA2Njk4MTg6OGJjYWI5ODU4NjI2Njg1MzA0NGU0YWJlZGQ3ZjhmMzBkNDU2ZjY3ZQ==",
+                "commit": {
+                    "author": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-10T04:39:09Z"
+                    },
+                    "committer": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-10T04:39:09Z"
+                    },
+                    "message": "update readme",
+                    "tree": {
+                        "sha": "42b497a29ffb84837298253c2dd41cdc2df2c358",
+                        "url": "https://api.github.com/repos/kakao/adt/git/trees/42b497a29ffb84837298253c2dd41cdc2df2c358"
+                    },
+                    "url": "https://api.github.com/repos/kakao/adt/git/commits/8bcab98586266853044e4abedd7f8f30d456f67e",
+                    "comment_count": 0,
+                    "verification": {
+                        "verified": false,
+                        "reason": "unsigned",
+                        "signature": null,
+                        "payload": null,
+                        "verified_at": null
+                    }
+                },
+                "url": "https://api.github.com/repos/kakao/adt/commits/8bcab98586266853044e4abedd7f8f30d456f67e",
+                "html_url": "https://github.com/kakao/adt/commit/8bcab98586266853044e4abedd7f8f30d456f67e",
+                "comments_url": "https://api.github.com/repos/kakao/adt/commits/8bcab98586266853044e4abedd7f8f30d456f67e/comments",
+                "author": null,
+                "committer": null,
+                "parents": [
+                    {
+                        "sha": "5ab616c6cdb3c6622996bcaac0a864c2c3050a79",
+                        "url": "https://api.github.com/repos/kakao/adt/commits/5ab616c6cdb3c6622996bcaac0a864c2c3050a79",
+                        "html_url": "https://github.com/kakao/adt/commit/5ab616c6cdb3c6622996bcaac0a864c2c3050a79"
+                    }
+                ]
+            },
+            {
+                "sha": "5ab616c6cdb3c6622996bcaac0a864c2c3050a79",
+                "node_id": "MDY6Q29tbWl0NjA2Njk4MTg6NWFiNjE2YzZjZGIzYzY2MjI5OTZiY2FhYzBhODY0YzJjMzA1MGE3OQ==",
+                "commit": {
+                    "author": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-10T04:32:09Z"
+                    },
+                    "committer": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-10T04:32:09Z"
+                    },
+                    "message": "update readme",
+                    "tree": {
+                        "sha": "66b39ae57c9a2149b434d7992f154b46da91f467",
+                        "url": "https://api.github.com/repos/kakao/adt/git/trees/66b39ae57c9a2149b434d7992f154b46da91f467"
+                    },
+                    "url": "https://api.github.com/repos/kakao/adt/git/commits/5ab616c6cdb3c6622996bcaac0a864c2c3050a79",
+                    "comment_count": 0,
+                    "verification": {
+                        "verified": false,
+                        "reason": "unsigned",
+                        "signature": null,
+                        "payload": null,
+                        "verified_at": null
+                    }
+                },
+                "url": "https://api.github.com/repos/kakao/adt/commits/5ab616c6cdb3c6622996bcaac0a864c2c3050a79",
+                "html_url": "https://github.com/kakao/adt/commit/5ab616c6cdb3c6622996bcaac0a864c2c3050a79",
+                "comments_url": "https://api.github.com/repos/kakao/adt/commits/5ab616c6cdb3c6622996bcaac0a864c2c3050a79/comments",
+                "author": null,
+                "committer": null,
+                "parents": [
+                    {
+                        "sha": "4bfadad98f25b872f735575358d92ec693385f3a",
+                        "url": "https://api.github.com/repos/kakao/adt/commits/4bfadad98f25b872f735575358d92ec693385f3a",
+                        "html_url": "https://github.com/kakao/adt/commit/4bfadad98f25b872f735575358d92ec693385f3a"
+                    }
+                ]
+            },
+            {
+                "sha": "4bfadad98f25b872f735575358d92ec693385f3a",
+                "node_id": "MDY6Q29tbWl0NjA2Njk4MTg6NGJmYWRhZDk4ZjI1Yjg3MmY3MzU1NzUzNThkOTJlYzY5MzM4NWYzYQ==",
+                "commit": {
+                    "author": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-10T04:29:44Z"
+                    },
+                    "committer": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-10T04:29:44Z"
+                    },
+                    "message": "update readme",
+                    "tree": {
+                        "sha": "a1aea213d2484c06511de198c111ee080470a86b",
+                        "url": "https://api.github.com/repos/kakao/adt/git/trees/a1aea213d2484c06511de198c111ee080470a86b"
+                    },
+                    "url": "https://api.github.com/repos/kakao/adt/git/commits/4bfadad98f25b872f735575358d92ec693385f3a",
+                    "comment_count": 0,
+                    "verification": {
+                        "verified": false,
+                        "reason": "unsigned",
+                        "signature": null,
+                        "payload": null,
+                        "verified_at": null
+                    }
+                },
+                "url": "https://api.github.com/repos/kakao/adt/commits/4bfadad98f25b872f735575358d92ec693385f3a",
+                "html_url": "https://github.com/kakao/adt/commit/4bfadad98f25b872f735575358d92ec693385f3a",
+                "comments_url": "https://api.github.com/repos/kakao/adt/commits/4bfadad98f25b872f735575358d92ec693385f3a/comments",
+                "author": null,
+                "committer": null,
+                "parents": [
+                    {
+                        "sha": "76c49084caef9dd688e1f1c6d3419901a9905d59",
+                        "url": "https://api.github.com/repos/kakao/adt/commits/76c49084caef9dd688e1f1c6d3419901a9905d59",
+                        "html_url": "https://github.com/kakao/adt/commit/76c49084caef9dd688e1f1c6d3419901a9905d59"
+                    }
+                ]
+            },
+            {
+                "sha": "76c49084caef9dd688e1f1c6d3419901a9905d59",
+                "node_id": "MDY6Q29tbWl0NjA2Njk4MTg6NzZjNDkwODRjYWVmOWRkNjg4ZTFmMWM2ZDM0MTk5MDFhOTkwNWQ1OQ==",
+                "commit": {
+                    "author": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-08T05:55:14Z"
+                    },
+                    "committer": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-08T05:55:14Z"
+                    },
+                    "message": "update readme.md",
+                    "tree": {
+                        "sha": "ef1a117ed2fdf916dae94e8e343638006d2d8f5e",
+                        "url": "https://api.github.com/repos/kakao/adt/git/trees/ef1a117ed2fdf916dae94e8e343638006d2d8f5e"
+                    },
+                    "url": "https://api.github.com/repos/kakao/adt/git/commits/76c49084caef9dd688e1f1c6d3419901a9905d59",
+                    "comment_count": 0,
+                    "verification": {
+                        "verified": false,
+                        "reason": "unsigned",
+                        "signature": null,
+                        "payload": null,
+                        "verified_at": null
+                    }
+                },
+                "url": "https://api.github.com/repos/kakao/adt/commits/76c49084caef9dd688e1f1c6d3419901a9905d59",
+                "html_url": "https://github.com/kakao/adt/commit/76c49084caef9dd688e1f1c6d3419901a9905d59",
+                "comments_url": "https://api.github.com/repos/kakao/adt/commits/76c49084caef9dd688e1f1c6d3419901a9905d59/comments",
+                "author": null,
+                "committer": null,
+                "parents": [
+                    {
+                        "sha": "001f4e9780d427d4c06082a84255b73367a311d1",
+                        "url": "https://api.github.com/repos/kakao/adt/commits/001f4e9780d427d4c06082a84255b73367a311d1",
+                        "html_url": "https://github.com/kakao/adt/commit/001f4e9780d427d4c06082a84255b73367a311d1"
+                    }
+                ]
+            },
+            {
+                "sha": "001f4e9780d427d4c06082a84255b73367a311d1",
+                "node_id": "MDY6Q29tbWl0NjA2Njk4MTg6MDAxZjRlOTc4MGQ0MjdkNGMwNjA4MmE4NDI1NWI3MzM2N2EzMTFkMQ==",
+                "commit": {
+                    "author": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-08T05:37:45Z"
+                    },
+                    "committer": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-08T05:37:45Z"
+                    },
+                    "message": "update readme.md",
+                    "tree": {
+                        "sha": "c415c3137fdc40430cc447a08599d18c5b123604",
+                        "url": "https://api.github.com/repos/kakao/adt/git/trees/c415c3137fdc40430cc447a08599d18c5b123604"
+                    },
+                    "url": "https://api.github.com/repos/kakao/adt/git/commits/001f4e9780d427d4c06082a84255b73367a311d1",
+                    "comment_count": 0,
+                    "verification": {
+                        "verified": false,
+                        "reason": "unsigned",
+                        "signature": null,
+                        "payload": null,
+                        "verified_at": null
+                    }
+                },
+                "url": "https://api.github.com/repos/kakao/adt/commits/001f4e9780d427d4c06082a84255b73367a311d1",
+                "html_url": "https://github.com/kakao/adt/commit/001f4e9780d427d4c06082a84255b73367a311d1",
+                "comments_url": "https://api.github.com/repos/kakao/adt/commits/001f4e9780d427d4c06082a84255b73367a311d1/comments",
+                "author": null,
+                "committer": null,
+                "parents": [
+                    {
+                        "sha": "bf1ce3d85ea94dfcdbbabd582aa96c27c718e079",
+                        "url": "https://api.github.com/repos/kakao/adt/commits/bf1ce3d85ea94dfcdbbabd582aa96c27c718e079",
+                        "html_url": "https://github.com/kakao/adt/commit/bf1ce3d85ea94dfcdbbabd582aa96c27c718e079"
+                    }
+                ]
+            },
+            {
+                "sha": "bf1ce3d85ea94dfcdbbabd582aa96c27c718e079",
+                "node_id": "MDY6Q29tbWl0NjA2Njk4MTg6YmYxY2UzZDg1ZWE5NGRmY2RiYmFiZDU4MmFhOTZjMjdjNzE4ZTA3OQ==",
+                "commit": {
+                    "author": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-08T05:25:27Z"
+                    },
+                    "committer": {
+                        "name": "Gordon Hahn",
+                        "email": "gordon.hahn@daumkakao.com",
+                        "date": "2016-06-08T05:25:27Z"
+                    },
+                    "message": "initial commit",
+                    "tree": {
+                        "sha": "1c71f826b0f8fa0355164b3f9f74509b0ca5f4c0",
+                        "url": "https://api.github.com/repos/kakao/adt/git/trees/1c71f826b0f8fa0355164b3f9f74509b0ca5f4c0"
+                    },
+                    "url": "https://api.github.com/repos/kakao/adt/git/commits/bf1ce3d85ea94dfcdbbabd582aa96c27c718e079",
+                    "comment_count": 0,
+                    "verification": {
+                        "verified": false,
+                        "reason": "unsigned",
+                        "signature": null,
+                        "payload": null,
+                        "verified_at": null
+                    }
+                },
+                "url": "https://api.github.com/repos/kakao/adt/commits/bf1ce3d85ea94dfcdbbabd582aa96c27c718e079",
+                "html_url": "https://github.com/kakao/adt/commit/bf1ce3d85ea94dfcdbbabd582aa96c27c718e079",
+                "comments_url": "https://api.github.com/repos/kakao/adt/commits/bf1ce3d85ea94dfcdbbabd582aa96c27c718e079/comments",
+                "author": null,
+                "committer": null,
+                "parents": []
+            }
+        ],
+        "issues": []
+    }
+}
